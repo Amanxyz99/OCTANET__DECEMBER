@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Repository Name</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            text-align: center;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1em;
+        }
+
+        section {
+            margin: 2em;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        p {
+            color: #555;
+        }
+
+        .github-button {
+            display: inline-block;
+            margin-top: 1em;
+            padding: 0.5em 1em;
+            font-size: 1em;
+            text-decoration: none;
+            color: #fff;
+            background-color: #28a745;
+            border-radius: 4px;
+            transition: background-color 0.3s;
+        }
+
+        .github-button:hover {
+            background-color: #218838;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Your Repository Name</h1>
+    </header>
+
+    <section>
+        <p>Welcome to the landing page for your GitHub repository! Add a brief description of your project here.</p>
+        <p>Highlight key features, benefits, or instructions for users.</p>
+
+        <!-- Add more sections, content, or images as needed -->
+
+        <a class="github-button" href="https://github.com/your-username/your-repository" target="_blank" 
+        </a>
+    </section>
+</body>
+</html>
